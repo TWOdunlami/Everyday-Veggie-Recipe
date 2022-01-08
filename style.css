@@ -1,0 +1,21 @@
+/* import font and only apply minimal styling */
+h1{
+    text-align: center;
+    color: green;
+}
+.container {
+    margin: auto;
+    width: 40%;
+    border: 6px solid red;
+    border-radius: 10px;
+    margin-top: 180px;
+}
+a {
+    text-decoration-line: none;
+    line-height: 2.8;
+    display: table-row;
+}
+a:hover {
+    background-color: yellow;
+    color: black;
+}
