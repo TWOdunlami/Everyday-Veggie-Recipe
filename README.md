@@ -5,4 +5,4 @@
 - all images are solely own and taken from my personal device.
 - images were edited using PowerPoint.
 - FIGMA was used to style the project.
-- list style for [unicode](https://gist.github.com/ngs/2782436)
+- GitHub repo used to style the list of recipes [unicode](https://gist.github.com/ngs/2782436)
