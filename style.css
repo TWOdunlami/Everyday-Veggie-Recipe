@@ -8,9 +8,10 @@ body {
 }
 h1{
     text-decoration-line: underline overline;
-    font-weight: 100;
+    font-weight: 800;
     text-align: center;
-    color: blue;
+    text-transform: uppercase;
+    color: black;
 }
 .container {
     background: rgba( 255, 255, 255, 0.1 );
@@ -22,20 +23,29 @@ h1{
     border: 1px solid rgba( 255, 255, 255, 0.18 );
     border-radius: 10px;
     margin-top: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+hr {
+    display: inline-flex;
+    padding: auto;
+    width: 50%;
 }
 a {
     color: white;
     font-weight: 100;
     text-transform: uppercase;
     text-decoration-line: none;
-    line-height: 3.3;
+    line-height: 2;
     display: table-row;
 }
 a:hover {
-    background-color: lightblue;
+    background-color: white;
     color: black;
+    border-bottom: 3px solid;
 }
 ul {
-    padding-left: 220px;
-    list-style-type: "\270D";  /*list style not "\270D" */
+    list-style-position: outside;
+    padding-left: 140px;
+    list-style-type: "\2638";  /*list style not "\270D" */
 }
