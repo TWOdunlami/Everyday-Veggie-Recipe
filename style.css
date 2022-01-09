@@ -13,10 +13,13 @@ h1{
     color: blue;
 }
 .container {
-    background: linen;
+    background: rgba( 255, 255, 255, 0.1 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 2px );
     margin: auto;
     width: 40%;
-    border: 3px solid lightblue;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
     border-radius: 10px;
     margin-top: 120px;
 }
