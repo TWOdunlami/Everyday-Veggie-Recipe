@@ -1,1 +1,6 @@
 /*import google font*/
+@import url('https://fonts.googleapis.com/css2?family=Snippet&display=swap');
+body {
+font-family: 'Snippet', sans-serif;
+font-weight: 100;
+}
