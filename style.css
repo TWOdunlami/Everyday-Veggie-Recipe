@@ -1,10 +1,12 @@
 /* import font and only apply minimal styling */
+@import url('https://fonts.googleapis.com/css2?family=Snippet&display=swap');
 body {
     background: no-repeat url('images/mainPAGEpumpkin-2981429_960_720.jpg');
     background-position: center;
     height: 500px;
     background-size: cover;
     background-attachment: fixed;
+    font-family: 'Snippet', sans-serif;
 }
 h1{
     text-decoration-line: underline overline;
