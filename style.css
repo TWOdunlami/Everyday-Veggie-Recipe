@@ -34,11 +34,12 @@ hr {
     width: 50%;
 }
 a {
-    color: white;
-    font-weight: 100;
+    color: black;
+    font-weight: 700;
     text-transform: uppercase;
     text-decoration-line: none;
     line-height: 2;
+    text-indent: 3px;
     display: table-row;
 }
 a:hover {
@@ -49,5 +50,5 @@ a:hover {
 ul {
     list-style-position: outside;
     padding-left: 140px;
-    list-style-type: "\2638";  /*list style not "\270D" */
+    list-style-type: none;  /*list style not "\2638" */
 }
