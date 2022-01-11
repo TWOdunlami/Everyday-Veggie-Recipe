@@ -2,7 +2,7 @@
 
 
 >Folder Files:
-- _mainDARK_ & _mainPAGE_ images in the images folder for The Odin Veggie Recipes landing page  is from source link[Open Source link](https://cdn.pixabay.com/photo/2017/11/27/14/24/pumpkin-2981429_960_720.jpg)
+- _mainDARK_ & _mainPAGE_ images in the images folder for The Odin Veggie Recipes landing page  is from source link [Open Source link](https://cdn.pixabay.com/photo/2017/11/27/14/24/pumpkin-2981429_960_720.jpg)
 - _Bean Avacado_, _Bean Quinoa_, _Jollof Mushroom_, and _Veggie Bowl_ images are solely owned by me and taken from my personal device. Referenced photos were edited using Powerpoint and AdobeXD.
 - FIGMA was used to style the overall project[Odin Veggie Recipe](https://www.figma.com/file/OVvHkdQlcwJ9VGRg3FWubX/Odin-Veggie-Recipe?node-id=0%3A1).
 - Visual Presentation of the expected final project.
