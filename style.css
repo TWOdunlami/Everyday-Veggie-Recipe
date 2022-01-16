@@ -31,14 +31,18 @@ h1{
 hr {
     display: inline-flex;
     padding: auto;
+    border-top: 8px solid rgba(175, 172, 126, 0.808);
+    border-radius: 19px;
     width: 50%;
 }
 a {
-    color: black;
-    font-weight: 700;
+    color: white;
+    font-weight: 900;
     text-transform: uppercase;
     text-decoration-line: none;
     line-height: 2;
+    font-size: 18px;
+    font-style: italic;
     text-indent: 3px;
     display: table-row;
 }
