@@ -23,3 +23,5 @@
 [^4]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022.png)
 5. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^5] snapshot.
 [^5]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-2.png)
+6. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^6] snapshot.
+[^6]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-3.png)
