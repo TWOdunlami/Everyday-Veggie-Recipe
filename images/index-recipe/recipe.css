@@ -1,13 +1,10 @@
 /*import google font*/
 @import url('https://fonts.googleapis.com/css2?family=Snippet&display=swap');
 body {
-    background: no-repeat url('https://lrydatabuilders.w3spaces.com/GIT/mainDARKimage.jpeg?bypass-cache=60046580');
+    background: #f2f2f2;
     font-family: 'Snippet', sans-serif;
-    color: white;
+    color: black;
     font-weight: 100;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
 }
 hr {
     border: 3px solid #C1DBED;
