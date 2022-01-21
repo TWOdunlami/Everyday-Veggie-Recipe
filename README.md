@@ -17,3 +17,5 @@
 [^1]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01092022.png)
 2. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with Google Fonts **Snippet** *Date completed 01.10.2022*,[^2] snapshot.
 [^2]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01102022.png)
+3. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with transparent footer styling **Snippet** *Date completed 01.21.2022*,[^3] snapshot.
+[^3]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022.png)
