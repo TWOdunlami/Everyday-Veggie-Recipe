@@ -13,7 +13,13 @@
         width: 100%;
         border-radius: 30px;
     }
-    h1, .slogan, .ingredients, .recipe{
+    h1, .slogan, .recipe{
+        line-height: 1;
+        text-align: center;
+        font-weight: lighter;
+        margin-bottom: 10px;
+    }
+    .ingredients {
         line-height: 0.3;
         text-align: center;
         font-weight: lighter;
@@ -24,13 +30,30 @@
         font-weight: lighter;
     }
     img {
-    width: 33%;
+    width: 43%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 13px solid linen;
     border-radius: 100%;
 }
+    .container {
+    background: rgba( 255, 255, 255, 0.1 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 2px );
+    margin: auto;
+    width: 42%;
+    box-sizing: content-box;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 10px;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    }
+    footer {
+        padding-top: 10px;
+    }
 </style>
 </head>
 <body>
@@ -38,6 +61,7 @@
         <a href="#">home</a>
     </nav>
     <h1>Bean Avacado Recipe</h1>
+    <div class="container">
     <main>
         <div class="beanav">
         <img src="https://lrydatabuilders.w3spaces.com/GIT/bean_avocado.png?bypass-cache=53242205" alt="bean avacado"/>
@@ -46,8 +70,7 @@
     <hr>
     <section>
         <p class="slogan">Enjoy Our Easy & fast Mouth-Watering Sandwich</p>
-        <br>
-        <p class="ingredients">Ingredients:</p>
+        <p class="ingredients"><strong>Ingredients:</strong></p>
         <p class="ingredients">-2 Slices of Ezekial Bread</p>
         <p class="ingredients">1 Avacado(Ripe)</p>
         <p class="ingredients">1 Tomato</p>
@@ -62,5 +85,7 @@
     <p class="recipe">Step 5: Use the left slice of bread to place the tomatoes, onions & avacado slices.</p>
     <p class="recipe">Step 6: Use the right slice of bread to place your left-over beans that are are finished warming up in the air fryer.</p>
     <p class="close"> enjoy! </p>
+    </div>
+    <footer></footer>
 </body>
 </html>
