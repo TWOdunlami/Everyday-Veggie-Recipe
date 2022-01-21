@@ -19,11 +19,9 @@
 [^2]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01102022.png)
 3. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with transparent footer styling **Snippet** *Date completed 01.21.2022*,[^3] snapshot.
 [^3]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022.png)
-4. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado structure is incomplete. **Snippet** *Date completed 01.21.2022*,[^4] snapshot.
-[^4]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022.png)
-5. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^5] snapshot.
-[^5]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-2.png)
-6. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^6] snapshot.
-[^6]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-3.png)
-7. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with a Dark background image in the curated recipes pages. Styling is not permanent. Remaining recipes will mimick current template. **Snippet** *Date completed 01.21.2022*,[^7] snapshot.
-[^7]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-4dark.png)
+4. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Avacado index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^4] snapshot.
+[^4]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-2.png)
+5. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Quinoa index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^5] snapshot.
+[^5]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-3.png)
+6. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with a Dark background image in the curated recipes pages. Styling is not permanent. Remaining recipes will mimick approved template. **Snippet** *Date completed 01.21.2022*,[^6] snapshot.
+[^6]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-4dark.png)
