@@ -23,6 +23,9 @@ h1, .slogan, .recipe{
     text-align: center;
     font-weight: lighter;
 }
+.directions::after {
+    content: ":";
+}
 .close {
     line-height: 5.5;
     text-align: center;
