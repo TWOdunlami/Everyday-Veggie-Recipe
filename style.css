@@ -31,9 +31,9 @@ h1{
 hr {
     display: inline-flex;
     padding: auto;
-    border-top: 8px solid rgba(175, 172, 126, 0.808);
-    border-radius: 19px;
-    min-width: 80%;
+    border-top: thick double rgba(255, 255, 255, 0.1);
+    border-radius: 5%;
+    min-width: 60%;
 }
 a {
     color: white;
