@@ -5,6 +5,7 @@ body {
     font-family: 'Snippet', sans-serif;
     color: black;
     font-weight: 100;
+    animation: glowshow 5s infinite;
 }
 hr {
     border: 3px solid #C1DBED;
@@ -48,6 +49,10 @@ img {
     margin-top: 2px;
     padding-top: 2px;
     padding-bottom: 1px;
+    animation: glowshow 5s infinite;
+}
+@keyframes glowshow{
+    50% {box-shadow: 10px 10px 10px grey;}
 }
 footer {
     padding-top: 0px;
