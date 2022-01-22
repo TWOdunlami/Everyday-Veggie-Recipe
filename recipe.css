@@ -31,6 +31,9 @@ h1, .slogan, .recipe{
     text-align: center;
     font-weight: lighter;
 }
+.close::before {
+    content: "🍲";
+}
 img {
     width: 43%;
     display: block;
