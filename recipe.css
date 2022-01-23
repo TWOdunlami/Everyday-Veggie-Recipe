@@ -58,7 +58,7 @@ img {
     animation: glowshow 5s infinite;
 }
 @keyframes glowshow{
-    50% {box-shadow: 10px 10px 10px grey;}
+    50% {box-shadow: 10px 10px 10px lavender;}
 }
 footer {
     padding-top: 0px;
