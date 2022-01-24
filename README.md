@@ -13,8 +13,7 @@ Mix-n-Match the ingredients, we can collaborate on thsi project by submitting a 
 - FIGMA was used to style the overall project [Odin Veggie Recipe](https://www.figma.com/proto/OVvHkdQlcwJ9VGRg3FWubX/Odin-Veggie-Recipe?node-id=25%3A13&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=25%3A13).
 - Visual Presentation of the expected final project.
 [![Odin Veggie Recipes](images/veggieTemplate.png "Odin Veggie Recipes")](https://www.figma.com/proto/OVvHkdQlcwJ9VGRg3FWubX/Odin-Veggie-Recipe?node-id=25%3A13&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=25%3A13)
-- GitHub repo used to style the list of recipes [unicode](https://gist.github.com/ngs/2782436)
-- folder titled **index-recipe** will hold all the recipe static pages individual html file.
+- GitHub repo used to style the list of recipes referenced in visual snapshot [^2]: [unicode](https://gist.github.com/ngs/2782436)
 ---
 
 # timeline of Visual Development
@@ -29,5 +28,5 @@ Mix-n-Match the ingredients, we can collaborate on thsi project by submitting a 
 [^4]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-2.png)
 5. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes Bean Quinoa index page is complete. Remaining recipes will mimick template. **Snippet** *Date completed 01.21.2022*,[^5] snapshot.
 [^5]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01212022-3.png)
-6. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with 3-D card effects. Styling is permanent. Remaining recipes will mimick approved template. **Snippet** *Date completed 01.22.2022*,[^6] snapshot.
-[^6]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01222022.png)
+6. - [x] **VISUAL SNAPSHOT** of the Odin Veggie Recipes with 3-D card effects. Styling is permanent. Remaining recipes will mimick approved template. **Snippet** *Date completed 01.23.2022*,[^6] snapshot.
+[^6]: ![UI snapshot](https://github.com/TWOdunlami/Odin-Veggie-Recipes/blob/main/images/snapshot01232022.png)
