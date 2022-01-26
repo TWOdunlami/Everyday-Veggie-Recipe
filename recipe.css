@@ -19,7 +19,7 @@ h1, .slogan, .recipe{
     margin-bottom: 10px;
 }
 .ingredients, .directions {
-    line-height: 0.3;
+    line-height: 0.5;
     text-align: center;
     font-weight: lighter;
 }
