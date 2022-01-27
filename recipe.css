@@ -7,18 +7,18 @@ body {
     font-weight: 100;
     animation: glowshow 5s infinite;
 }
-hr {
+hr {                                /* horizontal line styled in a powder blue */
     border: 3px solid #C1DBED;
     width: 98%;
     border-radius: 30px;
 }
-h1, .slogan, .recipe{
+h1, .slogan, .recipe{               /*center text for Title header, slogan class, and recipe section*/
     line-height: 1;
     text-align: center;
     font-weight: lighter;
     margin-bottom: 10px;
 }
-.ingredients, .directions {
+.ingredients, .directions {        /**/
     line-height: 0.5;
     text-align: center;
     font-weight: lighter;
@@ -26,7 +26,7 @@ h1, .slogan, .recipe{
 .directions::after {
     content: ":";
 }
-.close {
+.close {                        /* coling message at the end of recipe. "🍲 ENJOY */
     line-height: 5.5;
     text-align: center;
     font-weight: lighter;
@@ -34,7 +34,7 @@ h1, .slogan, .recipe{
 .close::before {
     content: "🍲";
 }
-img {
+img {                           /* Centered picture of completed recipe */
     width: 43%;
     display: block;
     margin-left: auto;
@@ -42,7 +42,7 @@ img {
     border: 13px solid #f2f2f2;
     border-radius: 100%;
 }
-.container {
+.container {                    /* Recipe card with 3D effect. Effect is accomplished with the box-shadow, web-kit backdrop-filter, animation, and keyframes property */
     background: rgba( 255, 255, 255, 0.1 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 2px );
