@@ -26,8 +26,8 @@ h1{
     border: 1px solid rgba( 255, 255, 255, 0.18 );
     border-radius: 10px;
     margin-top: 120px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 hr {
     display: inline-flex;
@@ -56,6 +56,9 @@ ul {
     list-style-position: outside;
     padding-left: 140px;
     list-style-type: none;  /*list style not "\2638" */
+}
+.counter {
+    margin: auto;
 }
 footer {
     position: fixed;
