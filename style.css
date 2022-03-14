@@ -58,7 +58,13 @@ ul {
     list-style-type: none;  /*list style not "\2638" */
 }
 .counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counterDisplay {
     margin: auto;
+    cursor: none;
 }
 footer {
     position: fixed;
