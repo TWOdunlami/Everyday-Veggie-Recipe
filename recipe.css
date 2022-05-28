@@ -23,6 +23,13 @@ h1, .slogan, .recipe{               /*center text for Title header, slogan class
     text-align: center;
     font-weight: lighter;
 }
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
 .directions::after {
     content: ":";
 }
