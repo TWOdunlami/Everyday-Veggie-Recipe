@@ -34,6 +34,13 @@ h1, .slogan, .recipe{               /*center text for Title header, slogan class
 .close::before {
     content: "🍲";
 }
+summary {
+    list-style: none;
+    cursor: pointer;
+}
+summary::before {
+    content: "Step 5: ";
+}
 img {                           /* Centered picture of completed recipe */
     width: 43%;
     display: block;
