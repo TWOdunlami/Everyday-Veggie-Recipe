@@ -1,4 +1,4 @@
-# Everyday Veggie Recipes [Everyday Veggie Recipes](index.html)
+# [Everyday Veggie Recipes](index.html)
 
 
 ## Objective
