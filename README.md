@@ -1,6 +1,9 @@
-# The Odin-Veggie-Recipes
+# Everyday Veggie Recipes [Everyday Veggie Recipes](index.html)
+
 
 ## Objective
+
+The Odin-Veggie-Recipes, this Project was inspired by The Odin Project titled, Odin Recipes. 
 
 *Enjoy* and *Keep* the recipes shared on this project.
 Our Health is a source of future wealth. The healtier we eat the happier we are.
@@ -9,7 +12,7 @@ Mix-n-Match the ingredients, we can collaborate on thsi project by submitting a 
 
 >Development Notes:
 - _mainDARK_ & _mainPAGE_ images in the images folder for The Odin Veggie Recipes landing page  is from source link [Open Source link](https://cdn.pixabay.com/photo/2017/11/27/14/24/pumpkin-2981429_960_720.jpg)
-- _Bean Avacado_, _Bean Quinoa_, _Jollof Mushroom_, and _Veggie Bowl_ images are solely owned by me and taken from my personal device. Referenced photos were edited using Powerpoint and AdobeXD.
+- _Bean Avacado_, _Bean Quinoa_, _Jollof Mushroom_, _Pita Pocket Chickpea Salad_, _VeggieMedley_ and _Veggie Bowl_ images are solely owned by me and taken from my personal device. Referenced photos were edited using Powerpoint and AdobeXD.
 - FIGMA was used to style the overall project [Odin Veggie Recipe](https://www.figma.com/proto/OVvHkdQlcwJ9VGRg3FWubX/Odin-Veggie-Recipe?node-id=25%3A13&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=25%3A13).
 - Visual Presentation of the expected final project.
 [![Odin Veggie Recipes](images/veggieTemplate.png "Odin Veggie Recipes")](https://www.figma.com/proto/OVvHkdQlcwJ9VGRg3FWubX/Odin-Veggie-Recipe?node-id=25%3A13&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=25%3A13)
