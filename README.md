@@ -6,7 +6,7 @@
 The Odin-Veggie-Recipes, this Project was inspired by The Odin Project titled, Odin Recipes. 
 
 *Enjoy* and *Keep* the recipes shared on this project.
-Our Health is a source of future wealth. The healtier we eat the happier we are.
+Our Health is a common source of our wealth. The healthier we eat the happier we are.
 Pre-Made items can be substituted with any of your personal fridge left-overs. The primary flavors in the Pre-made are spicy, so that your taste buds enjoy the healthy vegeatbles with a subtle kick of cayenne and chili spices we all passively enjoy.
 Mix-n-Match the ingredients, we can collaborate on thsi project by submitting a [Pull request](https://github.com/TWOdunlami/Odin-Veggie-Recipes/pulls) request.
 
