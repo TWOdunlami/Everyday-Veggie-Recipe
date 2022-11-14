@@ -10,6 +10,14 @@
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
 </head>
 <body>
+    <!-- menu -->
+    <div class="menu">
+        <button onclick="myFunction()" class="menubtn">menu</button>
+        <div id="myDropdown" class="menu-content">
+          <a href="#about">About</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </div>
     <h1>Everyday Veggie Recipes</h1>
 <main class="container">
     <ul>
@@ -38,5 +46,28 @@
 <footer>
     <p>&#169TWO</p>
 </footer>
+
+<!-- menu script -->
+<script>
+    /* When the user clicks on the button, 
+    toggle between hiding and showing the dropdown content */
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
+    
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(event) {
+      if (!event.target.matches('.menubtn')) {
+        var dropdowns = document.getElementsByClassName("menu-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openMenu = dropdowns[i];
+          if (openMenu.classList.contains('show')) {
+            openMenu.classList.remove('show');
+          }
+        }
+      }
+    }
+    </script>
 </body>
 </html>
