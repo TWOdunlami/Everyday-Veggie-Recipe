@@ -1,5 +1,8 @@
 # [Everyday Veggie Recipes](index.html)
-
+<div align="center">
+<img src="images/2vegrec-logo.png" >
+<p>Perfectly balanced</p>
+</div>
 
 ## Objective
 
