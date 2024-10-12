@@ -9,6 +9,7 @@
     <meta name="author" content="2Way Ink LLC">
     <title>STUFFED GREEN PEPPERS</title>
     <link rel="icon" type="images/2wayink-favicon.ico" href="/images/2veggierecipe.ico">
+    <link rel="stylesheet" type="text/css" media="screen" href="recipe.css">
     <!--Start of Tawk.to Script-->
 <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -23,193 +24,33 @@
   </script>
   <!--End of Tawk.to Script-->
 </head>
-<style>
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
-.container {
-  display: flex;
-  row-gap: 15px;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  height: 100vh;
-  width: 100%;
-  overflow: hidden;
-}
-.container .image {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  z-index: -1;
-}
-.container header {
-  font-size: 60px;
-  color: #fff;
-  font-weight: 600;
-  text-align: center;
-}
-.container p {
-  font-size: 16px;
-  font-weight: 400;
-  color: #fff;
-  max-width: 550px;
-  text-align: center;
-}
-.container .time-content {
-  display: flex;
-  column-gap: 30px;
-  align-items: center;
-}
-.time-content .time {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.time .number,
-.time .text {
-  font-weight: 500;
-  color: #fff;
-}
-.time .number {
-  font-size: 40px;
-}
-.time .text {
-  text-transform: capitalize;
-  font-size: 12px;
-}
-.email-content {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  margin-top: 30px;
-  width: 100%;
-}
-.email-content p {
-  font-size: 13px;
-}
-.input-box {
-  display: flex;
-  align-items: center;
-  height: 40px;
-  max-width: 360px;
-  width: 100%;
-  margin-top: 20px;
-  column-gap: 20px;
-}
-.input-box input,
-.input-box button {
-  height: 100%;
-  outline: none;
-  border: none;
-  border: 1px solid #fff;
-  border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.2);
-  font-weight: 400;
-}
-.input-box input {
-  width: 100%;
-  padding: 0 15px;
-  color: #fff;
-}
-input::placeholder {
-  color: #fff;
-}
-.input-box button {
-  cursor: pointer;
-  color: #fff;
-  white-space: nowrap;
-  padding: 0 20px;
-  transition: all 0.3s ease;
-}
-.input-box button:hover {
-  background-color: #fff;
-  color: #0d6a81;
-}
-@media screen and (max-width: 300px) {
-  .container header {
-    font-size: 50px;
-  }
-}
-</style>
 <body>
-    <section class="container">
-        <img src="https://images.unsplash.com/photo-1680771447988-94c040d9868b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" class="image" />
-        <header>STUFFED GREEN PEPPERS</header>
-        <p>
-          This recipe is currently simmering up &#129379. <br>Set a calendar reminder for the launch day and/or subscribe below!.
-        </p>
-        <div class="time-content">
-          <div class="time days">
-            <span class="number"></span>
-            <span class="text">days</span>
-          </div>
-          <div class="time hours">
-            <span class="number"></span>
-            <span class="text">hours</span>
-          </div>
-          <div class="time minutes">
-            <span class="number"></span>
-            <span class="text">minutes</span>
-          </div>
-          <div class="time seconds">
-            <span class="number"></span>
-            <span class="text">seconds</span>
-          </div>
-        </div>
-  
-        <div class="email-content">
-          <p>Save this page when the recipe is done simmering!</p>
-          <p><a href="landing.html" title="home">Home</a></p>
-  
-        <!--  <div class="input-box">
-            <input type="email" placeholder="Enter your email" />
-            <button>Notify Me</button>
-          </div> -->
-        </div>
-      </section>
-  
-<script>
- const seconds = document.querySelector(".seconds .number"),
-  minutes = document.querySelector(".minutes .number"),
-  hours = document.querySelector(".hours .number"),
-  days = document.querySelector(".days .number");
-
-let secValue = 11,
-  minValue = 2,
-  hourValue = 2,
-  dayValue = 88;
-
-const timeFunction = setInterval(() => {
-  secValue--;
-
-  if (secValue === 0) {
-    minValue--;
-    secValue = 60;
-  }
-  if (minValue === 0) {
-    hourValue--;
-    minValue = 60;
-  }
-  if (hourValue === 0) {
-    dayValue--;
-    hourValue = 24;
-  }
-
-  if (dayValue === 0) {
-    clearInterval(timeFunction);
-  }
-  seconds.textContent = secValue < 10 ? `0${secValue}` : secValue;
-  minutes.textContent = minValue < 10 ? `0${minValue}` : minValue;
-  hours.textContent = hourValue < 10 ? `0${hourValue}` : hourValue;
-  days.textContent = dayValue < 10 ? `0${dayValue}` : dayValue;
-}, 1000); //1000ms = 1s
-</script>
+  <h1>STUFFED GREEN PEPPERS</h1>
+  <div class="container">
+  <main>
+      <div class="beanav">
+      <img src="landing\images\pic08-0.jpg" alt="bean avacado"/>
+      </div>
+  </main>
+  <hr>
+  <section>
+      <p class="slogan">Protein & Veggie rich dish!</p>
+      <p class="ingredients"><strong>Ingredients:</strong></p>
+      <p class="ingredients">&#8280; 3 Green Peppers, 3 cups of Quinoa, 3 Avocado.</p>
+      <p class="ingredients">&#8280; 1/2-lbs of mushrooms, 2 sweet potatoes.</p>
+      <p class="ingredients">&#8280; 1 red onion, 2 tomatoes, minced garlic. </p>
+      <p class="ingredients">&#8280; Pre-Made Beans(insert link)</p>
+  </section>
+  <hr>
+  <p class="directions"><strong>Directions</strong></p>
+  <p class="recipe">Step 1: Quinoa, add minced onion, garlic, diced tomatoes & lime. stir until blended.</p>
+  <p class="recipe">Step 2: Mushrooms, sautee in medium heat & season(salt, ground pepper, pepper flakes, garlic powder, cayenne, cajun powder) as desired.</p>
+  <p class="recipe">Step 3: Sweet Peppers, cut the top open. Bake at 250-F for 15 min.</p>
+  <p class="recipe">Step 4: Steam the sweet potatoes until its soft, then cut them into cubes. Cut the avocado into even slices.</p>
+  <p class="recipe">Step 5: As desired add the Pre-made beans, Quinoa salad, Mushrooms, Sweet potatoes, Avocado</p>
+  <p class="recipe">Step 6: Put stuffed eppers in the oven at 300-F for 20min. Then serve.</p>
+  <p class="close"> enjoy! </p>
+  </div>
+  <footer><a href="index.html" target="_parent" title="static landing page with survey">home</a></footer>
 </body>
 </html>
